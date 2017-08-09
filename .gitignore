@@ -49,3 +49,8 @@ fabric.properties
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/modules.xml
+
+
+node_modules
+.deploy_git
+public
