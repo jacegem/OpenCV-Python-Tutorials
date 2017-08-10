@@ -16,6 +16,8 @@
 - [10. 색상 공간 변경하기](http://surpassing.tistory.com/807)
 - [11. 이미지 임계값](http://surpassing.tistory.com/808)
 - [12. 이미지의 기하학적 변환](http://surpassing.tistory.com/809)
+- [13. 이미지 Smoothing](http://surpassing.tistory.com/810)
+- [14. 형태론적 변환](http://surpassing.tistory.com/811)
 
 
 
@@ -27,9 +29,3 @@
 - [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io)
 - [OpenCV-Python Tutorials Gist](https://gist.github.com/jacegem/60ce233cf6adaa7a385233e1f164ed13)
 
-
-
-
-## Command
-
-jekyll new docs
