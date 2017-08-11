@@ -18,7 +18,9 @@
 - [12. 이미지의 기하학적 변환](http://surpassing.tistory.com/809)
 - [13. 이미지 Smoothing](http://surpassing.tistory.com/810)
 - [14. 형태론적 변환](http://surpassing.tistory.com/811)
-
+- [15. 이미지 Gradients](http://surpassing.tistory.com/812)
+- [16. Canny Edge Detection](http://surpassing.tistory.com/813)
+- [17. 이미지 피라미드](http://surpassing.tistory.com/814)
 
 
 ## LINK
